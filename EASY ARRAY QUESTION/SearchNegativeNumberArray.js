@@ -1,4 +1,5 @@
 // WAF (Write A Function) that returns the number of negative numbers in an array
+
 function countNegativeNumbers(arr) {
     let count = 0; // Initialize counter to track negative numbers
 
